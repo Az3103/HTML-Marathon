@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/MontserratThin-Regular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Thin';
+    src: url('fonts/MontserratThin-Medium.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #533738;
+}
+.nav-panel {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+.page-header {
+    background-image:url(img/background-1.jpg);
+}
+h1 {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+}
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+h2 {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+}
+.about-us {
+    background: #E5E5E5;
+}
+.about-us-panel {
+    background: #8D7370;
+}
+.our-works {
+    background: #E5E5E5;
+}
+.team {
+    background: #E2C4BA;
+}
+.feedback {
+    background: #E5E5E5;
+}
+.query {
+    background: #8D7370;
+}
+.page-footer {
+    background: #E5E5E5;
+}
